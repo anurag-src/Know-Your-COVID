@@ -1,4 +1,4 @@
-# Know-Your-COVID a design prototype for a COVID awareness dashboard
+# Know-Your-COVID : Design prototype
 
 ## Project for BITS F364 HCI
 
@@ -10,9 +10,8 @@
 * Anuriha Kodali
 * Sai Praneeth Reddy Maallem
 
-### 🔎 : About
-* Save file as IR_1.py
-* Open terminal in the directory containing the python program and run the command python IR_1.py
-* When prompted enter a partial or full dialogue from the TV show Friends. Include unique words and character names for better results.
-* Choose a method to compute term frequency from the given options by typing in the option number.
-* For documentation enter command >>>python -m pydoc IR_1 after entering the directory where the file is saved
+### 🔎 About
+* The report has all the information about the project and its design process and has a link to the prototype 
+* The "Interviews" folder has the transcripts for the qualitative interviews conducted 
+* The "Wireframes" folder has images of the wireframes developed during the design process
+
