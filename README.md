@@ -1,7 +1,5 @@
 # Know-Your-COVID : Design prototype
 
-## Project for BITS F364 HCI
-
 ### :busts_in_silhouette: The Team
 * Raaed Ahmed Syed
 * Ritika Reddy
